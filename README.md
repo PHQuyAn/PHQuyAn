@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrumpPham
-- 👀 I’m interested in Python, SQL, Machine Learning, HTML, Deep Learning, Computer vision, etc everything about AI
+- 👀 I’m interested in Python, SQL, Machine Learning, Deep Learning, Computer vision, etc everything about AI
 - 🌱 I’m currently learning at FPT university
 - 💞️ I’m looking to collaborate on FPT Software, Tiki, Google, ect everything about AI Company
 - 📫 How to reach me : quyantech@gmail.com

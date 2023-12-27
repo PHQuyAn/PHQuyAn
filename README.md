@@ -3,7 +3,6 @@ Nice to meet you! Here's a bit about me:<br><br>🔭 My full name is Pham Huynh 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PHQuyAn&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PHQuyAn&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PHQuyAn&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack:

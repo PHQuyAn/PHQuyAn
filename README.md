@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 **Bachelor of Artificial Intelligence** (GPA: 3.5/4.0)
+- 🎓 **Bachelor of Artificial Intelligence** (GPA: 3.3/4.0)
 - 🌐 **English Proficiency:** VSTEP B2 (Level 4/6)
 - 🚀 Deeply interested in: **Data, Machine Learning, Deep Learning, RAG Systems, and LLM Fine-tuning.**
 - 🎯 Goal: Contributing to cutting-edge AI solutions and optimizing data-driven decisions.

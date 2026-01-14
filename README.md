@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=45B1E8&center=true&vCenter=true&width=700&lines=💫+recent+ai+graduation+and+aspiring+ai+engineer+%26+data+scientist+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=45B1E8&center=true&vCenter=true&width=700&lines=💫AI+engineer+%26+data+scientist+🤖" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i><font color="#708090">specializing in large language models (llms) & retrieval-augmented generation (rag) 🧠</font></i>
+  <i><font color="#708090">Recent AI Graduation🧠</font></i>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me:
 - 🎓 **Bachelor of Artificial Intelligence** (GPA: 3.5/4.0)
 - 🌐 **English Proficiency:** VSTEP B2 (Level 4/6)
-- 🚀 Deeply interested in: **Deep Learning (GANs), RAG Systems, and LLM Fine-tuning.**
+- 🚀 Deeply interested in: **Data, Machine Learning, Deep Learning, RAG Systems, and LLM Fine-tuning.**
 - 🎯 Goal: Contributing to cutting-edge AI solutions and optimizing data-driven decisions.
 
 ---

@@ -13,15 +13,7 @@
 - 🌐 **English Proficiency:** VSTEP B2 (Level 4/6)
 - 🚀 Deeply interested in: **Data, Machine Learning, Deep Learning, RAG Systems, and LLM Fine-tuning.**
 - 🎯 Goal: Contributing to cutting-edge AI solutions and optimizing data-driven decisions.
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PHQuyAn&theme=vue&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHQuyAn&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</p>
-
+  
 ---
 
 ### 💻 Tech Stack:

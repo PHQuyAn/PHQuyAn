@@ -41,7 +41,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
 </p>
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=PHQuyAn&icon=0&color=0" alt="Visitor Count" />
-</p>

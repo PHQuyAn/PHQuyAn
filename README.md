@@ -31,7 +31,7 @@
 
 ### 🌐 Contact me via:
 <p align="left">
-<a href="https://www.linkedin.com/in/quy-an-pham-huynh-03527425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quy-an-pham-huynh" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/quy-an-pham-huynh-03527425a/](https://www.linkedin.com/in/quyan1907/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quy-an-pham-huynh" height="30" width="40" /></a>
 <a href="https://facebook.com/phquyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phquyan" height="30" width="40" /></a>
 </p>
 

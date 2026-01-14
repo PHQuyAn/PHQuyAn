@@ -1,5 +1,5 @@
-# 💫 About Me:
-Nice to meet you! Here's a bit about me:<br><br>🔭 My full name is Pham Huynh Quy An<br>🌱 I'm currently studying at FPT University in the AI field (Artificial Intelligence). During my studies, I aim to enhance my skills as an AI engineer, delve into Data Science, and become proficient in Python development.<br>🌱 Additionally, I'm exploring the field of electronics, particularly integrated circuits (IC), with a focus on Physical Design.<br><br>⚡Here is my overview and feel free to connect
+# 💫 Recent AI graduation and aspiring in AI Engineer & Data Scientist
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PHQuyAn&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
